@@ -3,10 +3,10 @@ header {
   background-color: #ff00ff;
   color: #00ffff;
   padding: 20px;
-/*  animation: rainbow 5s infinite; */
+  animation: rainbow 5s infinite;
 }
 
-/*@keyframes rainbow {
+@keyframes rainbow {
   0% { background-color: #ff00ff; }
   14% { background-color: #ff0000; }
   28% { background-color: #ff7f00; }
@@ -16,7 +16,7 @@ header {
   85% { background-color: #4b0082; }
   100% { background-color: #ee82ee; }
 }
-*/
+
 h1 {
   margin: 0;
 }
